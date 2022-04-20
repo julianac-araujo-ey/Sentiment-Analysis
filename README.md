@@ -4,7 +4,7 @@ This repository contains:
 
 - Jupyter Notebook with an introduction to sentiment analysis and a case study on Twitter US Airline.
 
-- App project of Sentiment Analysis. The app returns the percentage of positive, negative, and neutral sentiment characteristics of a given text written in english. It is specifically attuned to sentiments expressed in social media. 
+- App project of Sentiment Analysis. It returns the percentage of positive, negative, and neutral sentiment characteristics of a given text written in english. It is specifically attuned to sentiments expressed in social media. 
 
 ```diff
 - This is a development app. Do not use it in a production deployment.
