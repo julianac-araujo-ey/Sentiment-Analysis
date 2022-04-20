@@ -2,14 +2,11 @@
 
 This repository contains:
 
-- Jupyter Notebook with an introduction to sentiment analysis with VADER and a case study on Twitter US Airline.
+- Jupyter Notebook with an introduction to sentiment analysis and a case study on Twitter US Airline.
 
-- App project of Sentiment Analysis using VADER and the lightweight Python framework Flask.
+- App project of Sentiment Analysis. The app returns the percentage of positive, negative, and neutral sentiment characteristics of a given text written in english. It is specifically attuned to sentiments expressed in social media. 
 
-
-The app returns the percentage of positive, negative, and neutral sentiment characteristics of a given text written in english.
-
-It is specifically attuned to sentiments expressed in social media, and works on texts from other domains.
+<span style="color: red;">This is a development app. Do not use it in a production deployment.</span>
 
 **MADE WITH**: 
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
