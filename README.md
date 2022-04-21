@@ -4,7 +4,7 @@ Sentiment analysis, an important area in Natural Language Processing, is the pro
 
 Sentiment analysis is widely applied to voice-of-customer materials such as product reviews on online shopping websites like Amazon, movie reviews, or social media. It can be just a basic task of classifying the polarity of a text as being positive/negative or it can go beyond polarity, looking at sentiment states.
 
-It helps companies in their decision-making process. Imagine the task of determining whether a product’s review is positive or negative; you could do it yourself just by reading it, right? But what about 2k, 10k, and 100k? Are you pretending to read all those and manually classify them? Let’s be honest, your job would be the worst ever. There is where Sentiment Analysis comes in.
+Imagine the task of determining whether a product’s review is positive or negative; you could do it yourself just by reading it, right? But what about 2k, 10k, and 100k? Are you pretending to read all those and manually classify them? Let’s be honest, your job would be the worst ever. There is where Sentiment Analysis comes in to help in your decision-making process. 
 
 There are many sources of public sentiment e.g. public interviews, surveys, etc. However, with more and more people joining social media platforms, websites like Facebook and Twitter can be parsed for public sentiment.
 
@@ -12,7 +12,7 @@ Also, there exist several ways to implement Sentiment Analysis and each data sci
 
 - Jupyter Notebook with an introduction to sentiment analysis and a case study on Twitter US Airline.
 
-- App project of Sentiment Analysis. It returns the percentage of positive, negative, and neutral sentiment characteristics of a given text written in english. It is specifically attuned to sentiments expressed in social media. 
+- App project of Sentiment Analysis that returns the percentage of positive, negative, and neutral sentiment characteristics of a given text written in English.  
 
 ```diff
 - This is a development app. Do not use it in a production deployment.
