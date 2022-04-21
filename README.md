@@ -1,6 +1,14 @@
 # Sentiment Analysis App 
 
-This repository contains:
+Sentiment analysis, an important area in Natural Language Processing, is the process of automatically detecting an opinion or feelings about something using data like text or images, regarding almost anything. 
+
+Sentiment analysis is widely applied to voice-of-customer materials such as product reviews in online shopping websites like Amazon, movie reviews or social media. It can be just a basic task of classifying the polarity of a text as being positive/negative or it can go beyond polarity, looking at sentiment states.
+
+It helps companies in their decision-making process. Imagine the task of determining whether a product’s review is positive or negative; you could do it yourself just by reading it, right? But what about 2k, 10k, 100k product’s review? Are you pretending to read all the reviews and manually classify them? Let’s be honest, your job would be the worst ever. There’s where Sentiment Analysis comes in.
+
+There are many sources of public sentiment e.g. public interviews, surveys, etc. However, with more and more people joining social media platforms, websites like Facebook and Twitter can be parsed for public sentiment.
+
+There are several ways to implement Sentiment Analysis and each data scientist has his/her own preferred method, here you will find a very simple one so you can understand what it involves. This repository contains:
 
 - Jupyter Notebook with an introduction to sentiment analysis and a case study on Twitter US Airline.
 
